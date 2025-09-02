@@ -1,4 +1,4 @@
-👕 Clothing Brand Landing Page  
+👕 UrbandAura-Clothing Brand Landing Page  
 
 A modern and responsive **Landing Page for a Clothing Brand** built using **HTML & CSS**.  
 This project is part of my first task at **SkillCraft Technology**.  
